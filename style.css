@@ -1,0 +1,137 @@
+/* ------- structure ------- */
+
+body {
+  background-color: #212529;
+  margin: 0;
+}
+
+header h1 {
+  background-color: #D6A99A;
+  height: 150px;
+  text-align: center;
+  font-size: 50px;
+  color: #DB5A42;
+  font-family: "Segoe UI Black";
+  text-transform: uppercase;
+  margin: -1.25em;
+  padding-top: 50px;
+  padding-botton: 50px;
+}
+
+footer {
+  background-color: #D6A99A;
+  height: 100px;
+  margin: -1.25em;
+  padding: 0.5em;
+}
+
+/* ------- header & navBar ------- */
+
+nav {
+  float: center;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+/* ------- footer ------- */
+
+footer {
+  text-align: center;
+  margin: -62px;
+}
+
+footer #martinuche {
+  color: #5C6B73;
+  font-size: 15px;
+  padding-top: 30px;
+}
+
+#pageContainer {
+  width: 940px;
+  height: 1800px;
+  margin: auto;
+  padding: 62px;
+  background-color: #F8F1FF;
+}
+
+#imageContainer {
+  float: center;
+  width: 300px;
+}
+
+img {
+  width: 265px;
+  border-radius: 100px;
+  float: center;
+
+}
+
+#mainContainer {
+  float: center;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainBodyContainer {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Home {
+  margin-bottom: 50px;
+}
+
+#About {
+  margin-bottom: 50px;
+}
+
+#Contact {
+  margin-bottom: 100px;
+}
+
+h2,
+h3 {
+  text-align: center;
+  color: #ce4257;
+  font-size: 20px;
+  font-family: "Tw Cen MT Condensed Extra Bold";
+  font-size: 30px;
+}
+
+p {
+  font-family: "Cambria Math", Helvetica, sans-serif;
+  font-size: 20px;
+  color: #253237;
+}
+
+ul,
+ol {
+  font-family: "Cambria Math", Helvetica, sans-serif;
+  font-size: 20px;
+  color: #253237;
+}
+
+a {
+  font-family: "Cambria Math", Helvetica, sans-serif;
+}
+
+a:link {
+  color: #253237;
+}
+
+a:visited {
+  color: #253237;
+}
+
+a:hover {
+  color: #C9184A;
+}
+
+a:active {
+  color: #FFB700;
+}
