@@ -7,4 +7,4 @@ This is an about me webpage.
 * [LinkedIn](https://www.linkedin.com/in/martinuche19/)
 
 ## Special Thanks
-Thanks for to the team at Thinkful!
+Thanks to the team at Thinkful!
